@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋
+I'm @uncBlack, a Backend Software Engineer specializing in building scalable APIs using Python (FastAPI) and Node.js (Express). I have experience working with databases like Supabase, PostgreSQL, MongoDB, and use Redis for caching and performance optimization.
 
-<!--
-**UncBlaq/uncBlaq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on Tuition, a payment platform that integrates with Flutterwave’s API to streamline educational payments.
 
-Here are some ideas to get you started:
+Backend: Tuition API Docs (under development and pushing aggresively)
+Frontend: (under development)
+🌱 I’m expanding into frontend development with JavaScript frameworks and plan to dive into Blockchain and AI in DeFi, focusing on Solidity and Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I’ve applied Test-Driven Development (TDD) to projects like Tuition and a Movie API app, where I also utilized Docker for containerization. Currently, I’m learning Kubernetes to enhance my deployment skills.
+
+🎯 In addition to backend development, I work as a Web Designer at SabreWorks, making key technical decisions, deploying websites, and leveraging cloud services.
+
+📫 How to reach me: aderetimicheal08@gmail.com
+
+Let’s connect and build the future together!
