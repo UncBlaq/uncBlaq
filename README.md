@@ -3,8 +3,8 @@ I'm @uncBlack, a Backend Software Engineer specializing in building scalable API
 
 🔭 I’m currently working on Tuition, a payment platform that integrates with Flutterwave’s API to streamline educational payments.
 
-Backend: Tuition API Docs (under development and pushing aggresively)
-Frontend: (under development)
+Backend: [Tuition API Docs](https://tuition2-crra.onrender.com/docs#/) (under development and pushing actively and aggresively)
+Frontend: https://altwavetuition.vercel.app/ (under development)
 🌱 I’m expanding into frontend development with JavaScript frameworks and plan to dive into Blockchain and AI in DeFi, focusing on Solidity and Rust.
 
 💻 I’ve applied Test-Driven Development (TDD) to projects like Tuition and a Movie API app, where I also utilized Docker for containerization. Currently, I’m learning Kubernetes to enhance my deployment skills.
