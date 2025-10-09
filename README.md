@@ -1,16 +1,15 @@
-Hi there 👋
-I'm @uncBlack, a Backend Software Engineer specializing in building scalable APIs using Python (FastAPI) and Node.js (Express). I have experience working with databases like Supabase, PostgreSQL, MongoDB, and use Redis for caching and performance optimization.
+👋 Hi, I'm Micheal Adereti
+I'm a Backend Software Engineer specializing in building scalable APIs using Python (FastAPI), Node.js (Express), and Nest.
+I work with PostgreSQL, MongoDB, and use Redis for caching and performance optimization.
+My workflow includes Docker, Terraform (CDKTF), GitHub Actions, and AWS for containerized and automated deployments.
 
-🔭 I’m currently working on Tuition, a payment platform that integrates with Flutterwave’s API to streamline educational payments.
+🔭 Current Projects — Tuition and Rewrkit...
+💻 Tech Growth
 
-Backend: [Tuition API Docs](https://tuition2-crra.onrender.com/docs#/) (under development and pushing actively and aggresively)
-Frontend: https://altwavetuition.vercel.app/ (under development)
-🌱 I’m expanding into frontend development with JavaScript frameworks and plan to dive into Blockchain and AI in DeFi, focusing on Solidity and Rust.
+Applied TDD across major projects like Tuition and Rewrkit, using Docker for environment consistency and CI/CD pipelines with GitHub Actions.
+Currently expanding into Kubernetes and infrastructure automation to improve deployment reliability.
+Exploring Blockchain and AI in DeFi — learning Solidity and Rust for upcoming side projects.
 
-💻 I’ve applied Test-Driven Development (TDD) to projects like Tuition and a Movie API app, where I also utilized Docker for containerization. Currently, I’m learning Kubernetes to enhance my deployment skills.
+🎯 Beyond Code
 
-🎯 In addition to backend development, I work as a Web Designer at SabreWorks, making key technical decisions, deploying websites, and leveraging cloud services.
-
-📫 How to reach me: aderetimicheal08@gmail.com
-
-Let’s connect and build the future together!
+At SabreWorks, I design and deploy websites, make technical decisions, and implement SEO & automation systems for clients.
